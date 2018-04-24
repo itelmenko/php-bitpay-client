@@ -95,7 +95,7 @@ When you receive blank IPN responses, please check https://support.bitpay.com/hc
 
 The MIT License (MIT)
 
-Copyright (c) 2017 BitPay, Inc.
+Copyright (c) 2018 BitPay, Inc.
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
